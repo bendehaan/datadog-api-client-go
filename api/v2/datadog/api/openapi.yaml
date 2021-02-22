@@ -10032,6 +10032,7 @@ components:
           isDefault: true
           isDeleted: true
           isEnabled: true
+          hasExtendedTitle: true
           name: name
           options:
             newValueOptions: {}
@@ -10079,6 +10080,7 @@ components:
           isDefault: true
           isDeleted: true
           isEnabled: true
+          hasExtendedTitle: true
           name: name
           options:
             newValueOptions: {}
